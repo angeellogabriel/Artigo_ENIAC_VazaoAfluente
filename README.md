@@ -1,5 +1,5 @@
 # Artigo_ENIAC_VazaoAfluente
-Este repositório contém o código e os dados utilizados no artigo submetido ao ENIAC, que aborda a análise e previsão de vazão afluente em sistemas hidrológicos.
+Este repositório contém o código e os dados utilizados no artigo submetido ao ENIAC que está anexado em PDF, que aborda a análise e previsão de vazão afluente em sistemas hidrológicos.
 O foco principal é no desenvolvimento de técnicas baseadas em redes neurais para melhorar a precisão das previsões de vazão afluente, utilizando séries temporais hidrológicas.
 
 # Modelos Utilizados
