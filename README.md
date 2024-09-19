@@ -8,6 +8,6 @@ CNN (Convolutional Neural Network): Redes neurais convolucionais para extrair ca
 Modelo Híbrido CNN-LSTM: Combinação das arquiteturas CNN e LSTM para aproveitar o melhor de ambos os modelos, extraindo características locais e temporais de forma eficiente.
 
 
-DadosReservatorios.xlsx: Arquivo principal de séries temporais de vazão afluente.
+DadosReservatorios(2).xlsx: Arquivo principal de séries temporais de vazão afluente.
 
 TreinaModelos_VazaoAfluente.ipynb: Notebook Jupyter com experimentos exploratórios e análises.
