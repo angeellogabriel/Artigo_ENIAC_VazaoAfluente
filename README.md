@@ -7,8 +7,7 @@ LSTM (Long Short-Term Memory): Redes neurais recorrentes para capturar dependên
 CNN (Convolutional Neural Network): Redes neurais convolucionais para extrair características relevantes de padrões locais nas séries temporais.
 Modelo Híbrido CNN-LSTM: Combinação das arquiteturas CNN e LSTM para aproveitar o melhor de ambos os modelos, extraindo características locais e temporais de forma eficiente.
 
-data/: Conjunto de dados utilizados no projeto.
 
-dados_vazao.xlsx: Arquivo principal de séries temporais de vazão afluente.
+DadosReservatorios.xlsx: Arquivo principal de séries temporais de vazão afluente.
 
-notebooks/: Notebook Jupyter com experimentos exploratórios e análises.
+TreinaModelos_VazaoAfluente.ipynb: Notebook Jupyter com experimentos exploratórios e análises.
